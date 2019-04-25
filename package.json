@@ -1,0 +1,11 @@
+{
+    "name": "sampleapp",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pawan90101/Demo"
+    }
+}
